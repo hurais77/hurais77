@@ -7,4 +7,4 @@ A passionate **Engineer** 🚀 who loves building robust data pipelines, optimiz
 - **Cloud:** Microsoft Azure ☁️ (ADF, Databricks, Datalake, CosmosDB, Synapse, Key Vault)  
 - **Databases:** SQL Server 📊 | MySQL 🛢️ | MongoDB 🍃  
 - **Web Development:** JavaScript 🌐 | HTML | CSS | Next.js  
-- **Tools & Frameworks:** PySpark 🔥 | Power BI 📈 | Flask | AWS (S3, Lambda, Glue, Athena)  
+- **Tools & Frameworks:** PySpark 🔥 | Power BI 📈 | Flask | Django |  PowerBI
